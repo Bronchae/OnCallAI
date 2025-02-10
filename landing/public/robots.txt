@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oncall.ai/sitemap.xml
